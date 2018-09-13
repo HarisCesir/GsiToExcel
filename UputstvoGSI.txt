@@ -1,0 +1,8 @@
+Postavke
+-Broj decimala za prikaz u gridu i excelu
+-Dozvoljeno odstupanje
+-Kolone za prikaz u gridu
+
+Ucitaj GSI(DNA.gsi ima greske u mjerenje, potrebno je ispreviti greske prije pravljenja NO1 i NO2 obrasca,
+TPENES.gsi nema gresaka omoguceno je pravljenje NO1 i NO2 obrasca)
+-Desni klik na red grida omogucava preracuvanje nakon izmjena kao i brisanje redove
